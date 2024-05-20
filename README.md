@@ -1,16 +1,31 @@
-### Hi there 👋
+# Saffath Ahmed
 
-<!--
-**SaffathA/SaffathA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Me
 
-Here are some ideas to get you started:
+* Freshman of Grand Blanc high school
+* Intrested in careers surrounding Computer Science
+* Great person to talk to
+* intrested in coding
+* great person to have a conversation with
+* He/Him
 
-- 🔭 I’m currently working on school
-- 🌱 I’m currently learning coding
-- 👯 I’m looking to collaborate on school projects 
-- 🤔 I’m looking for help with coding 
-- 💬 Ask me about my skills in coding
-- 📫 How to reach me: saffathahmed08@gbstu.org
-- 😄 Pronouns: He/him 
-- ⚡ Fun fact: I like cats 
--->
+## reach me here
+* saffathahmed08@gbstu.org
+* 810-445-9424
+
+## goals 
+- [ ] Ann Arbor 
+- [ ] Good grades
+- [ ] Internship
+- [ ] 
+- [ ]
+- [ ] 
+## Technology Stack
+* block code
+* Makecode arcade 
+
+
+ 
+
+
+
