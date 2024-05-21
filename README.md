@@ -43,7 +43,11 @@
 ## Education 
 - Grand Blanc High School Freshman
 - Spanish 3
-- multiple honors classes
+- Honors 
+  -   Geometry
+  -   IPS
+- Ap classes
+  - CSP
 
 ## Strengths 
 - When interested in something I try my best to understand it
@@ -69,4 +73,7 @@
 >
 > ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SaffathA&theme=Green&show_icons=true&hide_border=true&layout=compact)
 
+# number 1 opp 
+* Issac
 
+ 
