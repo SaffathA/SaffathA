@@ -55,7 +55,34 @@
       
 ## Technology Stack
 * block code
-* Makecode arcade 
+* Makecode arcade
+
+## GitHub stats 
+<p align='center'> 
+
+   <a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"> 
+
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=SaffathA 
+
+&show_icons=true&count_private=true"/> 
+
+   </a> 
+
+   <a href="https://github.com/SaffathA 
+
+/github-readme-stats"> 
+
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaffathA 
+
+&layout=compact"/> 
+
+   </a> 
+
+</p> 
+
+compact"/> </a> </p>  
+
+ 
 
 
 
