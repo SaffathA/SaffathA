@@ -20,10 +20,10 @@
 - I know a bit about cooking but want to learn more 
 - I know a bit of coding but want to learn more 
 
-## Purpose 
+## Goal in life  
 <p align='center'> achieving a place in society which I can consider solid 
 
-## goals 
+## Steps to acomplish for purpose  
 - [x] Learning how to code on a basic level
 - [ ] Learning how to code at a more advanced stage
 - [ ] Develop my knowledge of computer science as a whole
@@ -45,7 +45,7 @@
 - Pay's attention in class
 -  works well with the right people
 - great person to have a conversation with
-- 
+
   
 ## Weaknesses 
 - huge procrastinator
@@ -58,29 +58,12 @@
 * Makecode arcade
 
 ## GitHub stats 
-<p align='center'> 
+> ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=SaffathA&theme=green&hide_border=true)
+>
+> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaffathA&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+>
+> ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SaffathA&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)![image](https://github.com/SaffathA/SaffathA/assets/153103270/77438645-ed16-4ba0-8c67-dca41650a2c3)
 
-   <a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"> 
-
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=SaffathA 
-
-&show_icons=true&count_private=true"/> 
-
-   </a> 
-
-   <a href="https://github.com/SaffathA 
-
-/github-readme-stats"> 
-
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaffathA 
-
-&layout=compact"/> 
-
-   </a> 
-
-</p> 
-
-compact"/> </a> </p>  
 
 # public enemy #1
 
