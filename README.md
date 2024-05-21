@@ -63,10 +63,3 @@
 > ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaffathA&theme=green&show_icons=true&hide_border=true&count_private=true)
 >
 > ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SaffathA&theme=green&show_icons=true&hide_border=true&layout=compact)![image](https://github.com/SaffathA/SaffathA/assets/153103270/77438645-ed16-4ba0-8c67-dca41650a2c3)
-
-
-
- 
-
-
-
