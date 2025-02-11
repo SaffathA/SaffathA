@@ -3,10 +3,9 @@
 ## Me
 
 * Freshman of Grand Blanc High School
-* Interested in careers surrounding Computer Science
-* Great person to talk to
+* Interested in careers surrounding Computer Science and med 
 * Interested in coding
-* great person to have a conversation with
+* great person to have a conversation with (listener and responder) 
 * He/Him
 
 ## reach me here
@@ -20,7 +19,7 @@
 
 
 ## Hobbies and interests 
-- Videogames, more specifically story games
+- Story, sandbox, and survival videogames
 - I know a bit about cooking but want to learn more 
 - I know a bit of coding but I want to learn more
 - hanging out with friends 
@@ -31,23 +30,29 @@
 ## Steps to accomplish for purpose  
 - [x] Learning how to code on a basic level
 - [ ] Learning how to code at a more advanced stage
-- [ ] Develop my knowledge of computer science as a whole
+- [x] Develop my knowledge of computer science as a whole
 - [ ] Decide a path in computer science 
 - [ ] Preparing myself to handle future challenges 
-- [ ] Developing my strengths and minimizing my weaknesses
+- [x] Developing my strengths and minimizing my weaknesses
 
 ## Achievements 
 - tae soo do red belt
 - Part-time soccer player
 
 ## Education 
-- Grand Blanc High School Freshman
+- Grand Blanc High School Sophmore 
 - Spanish 3
 - Honors 
   -   Geometry
-  -   IPS
+  -   Introductory to physical sciences
+  -   Biology
+  -   Chem
 - Ap classes
   - CSP
+  - US History 
+  - Seminar
+  - Pre-calc
+  - Java
 
 ## Strengths 
 - When interested in something I try my best to understand it
@@ -55,16 +60,16 @@
 - works well with the right people
 - a great person to have a conversation with
 
-  
 ## Weaknesses 
-- huge procrastinator
-- Very bad at studying 
-- constantly sleepy
-- tries to a point 
+- [ ]huge procrastinator
+- [x]Very bad at studying 
+- [ ]constantly sleepy
+- [ ]tries to a point 
       
 ## Technology Stack
 * block code
 * Makecode arcade
+* Java
 
 ## GitHub stats 
 > ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=SaffathA&theme=Green&hide_border=true)
