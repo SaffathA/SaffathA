@@ -2,14 +2,14 @@
 
 ## Me
 
-* Freshman of Grand Blanc High School
+* Sophmore of Grand Blanc High School
 * Interested in careers surrounding Computer Science and med 
 * Interested in coding
 * great person to have a conversation with (listener and responder) 
 * He/Him
 
 ## reach me here
-* saffathahmed08@gbstu.org
+* saffathahmed08@gbstu.org or saffathahmed7@gmail.com
 * 810-445-9424
 
 ## Check me out here 
@@ -52,7 +52,7 @@
   - US History 
   - Seminar
   - Pre-calc
-  - Java
+  - CSA
 
 ## Strengths 
 - When interested in something I try my best to understand it
@@ -63,7 +63,7 @@
 ## Weaknesses 
 - [ ]huge procrastinator
 - [x]Very bad at studying 
-- [ ]constantly sleepy
+- [X]constantly sleepy
 - [ ]tries to a point 
       
 ## Technology Stack
